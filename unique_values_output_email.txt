@@ -1,0 +1,193 @@
+Unique values in column 'crm_accreditation_completed':
+Not Discussed
+Yes
+No
+Unknown
+
+
+Unique values in column 'crm_timely_completion':
+Not Discussed
+No
+Yes
+Unknown
+
+
+Unique values in column 'crm_progress_towards_accreditation':
+Not Discussed
+Yes
+No
+Unknown
+
+
+Unique values in column 'crm_delays_in_accreditation':
+No
+Yes
+Not Discussed
+Unknown
+
+
+Unique values in column 'crm_contractor_suggested_leave':
+Not Discussed
+No
+Yes
+Unknown
+
+
+Unique values in column 'crm_contractor_engagement':
+No
+Yes
+Unknown
+Not Discussed
+
+
+Unique values in column 'crm_contractor_sentiment':
+Not Discussed
+Neutral
+Satisfied
+Dissatisfied
+Unknown
+
+
+Unique values in column 'crm_contractor_sentiment_score':
+Unknown
+Neutral
+Satisfied
+Dissatisfied
+
+
+Unique values in column 'crm_dts_or_ssip_mentioned':
+No
+Yes
+Unknown
+Not Discussed
+
+
+Unique values in column 'crm_customer_payment_intention':
+Not Discussed
+Yes
+No
+Unknown
+
+
+Unique values in column 'crm_competitors_mentioned':
+No
+Not Discussed
+Yes
+Unknown
+
+
+Unique values in column 'crm_membership_level':
+Accredited
+Not Discussed
+In progress
+Members only
+Group Membership
+Unknown
+Not Accredited
+Assisted Band C1
+Band B
+Band C1 (5-9 employees)
+Standard
+Express
+Premier Band B
+Premier
+Standard-Safe contractor Membership
+
+
+Unique values in column 'crm_platform_issues_raised':
+No
+Not Discussed
+Yes
+Unknown
+
+
+Unique values in column 'crm_agent_chased_contractor':
+Yes
+No
+Unknown
+Not Discussed
+
+
+Unique values in column 'crm_agent_chase_count':
+Low
+Medium
+High
+Unknown
+
+
+Unique values in column 'crm_accreditation_issues':
+Not Discussed
+No
+Yes
+Unknown
+
+
+Unique values in column 'crm_membership_overdue':
+Not Discussed
+No
+Yes
+Unknown
+
+
+Unique values in column 'crm_auto_renewal_status':
+No
+Unknown
+Yes
+Not Discussed
+
+
+Unique values in column 'crm_dissatisified_with_renewal_price':
+Not Discussed
+No
+Yes
+Unknown
+
+
+Unique values in column 'crm_customer_complained':
+No
+Yes
+Unknown
+Not Discussed
+Not Applicable
+
+
+Unique values in column 'crm_refund_mentioned':
+Yes
+No
+Unknown
+"" with all questions on part one greyed out and part two already showing as complete."
+Not Discussed
+Not Applicable
+
+
+Unique values in column 'crm_negative_customer_experience':
+Yes
+Unknown
+No
+Not Discussed
+
+
+Unique values in column 'crm_dissatisfaction_with_support':
+No
+Not Discussed
+Yes
+Unknown
+The contractor experienced difficulties accessing the QA system, which hindered their progress.
+
+
+Unique values in column 'crm_financial_hardship_mentioned':
+Not Discussed
+No
+Yes
+Unknown
+Yes 
+
+
+Unique values in column 'sentiment_category':
+Not Discussed
+Neutral
+Satisfied
+Dissatisfied
+Unknown
+
+
