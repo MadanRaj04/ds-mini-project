@@ -1,7 +1,7 @@
 import pandas as pd
 
 df = pd.read_csv(
-    'C:\\Users\\MadanRajMA\\Documents\\DS-Proj\\ds-mini-project\\data\\cleaned\\billings_cleaned.csv',
+    'D:\\DS-Proj-git\\ds-mini-project\\data\\merged\\merged_final.csv',
     low_memory=False
 )
 
@@ -12,11 +12,11 @@ def print_unique_values_column(df, column_name, file):
         file.write(f"{value}\n")
 
 # Open file in write mode
-with open('unique_values_output_billings.txt', 'w', encoding='utf-8') as f:
+with open('unique_values_output_merged.txt', 'w', encoding='utf-8') as f:
     for col in df.columns:
-        if col in ["co_ref"]:
+        if col not in ["crm_membership_level"]:
             continue
         print_unique_values_column(df, col, f)
         f.write("\n\n")
 
-print("Output saved to unique_values_output.txt")
+print("Output saved to unique_values_output_merged.txt")
